@@ -4,6 +4,8 @@
 **Prathyusha Vanga**  
 📞 513-827-4902 | 📧 prathyusha.vanga28@gmail.com  
 🔗 [LinkedIn](#https://www.linkedin.com/in/prathyushavanga/) | [Github](#https://github.com/Prathyusha632)
+### 📄 Download My Resume
+[Download Resume] ({{ site.resume_url }})
 
 ## Professional Summary
 - Experienced **Java Full Stack Developer** specializing in building scalable and high-performance backend applications using **Java, Spring Boot, React.js, and Microservices**.
