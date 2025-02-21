@@ -13,19 +13,14 @@
 - Cloud & DevOps proficiency, with hands-on experience in **AWS, Google Cloud Platform (GCP), Terraform, and Docker** for efficient **deployment** and **infrastructure management**.
 - Hands-on experience with **AWS services** such as **EC2, S3, Lambda, API Gateway, RDS, DynamoDB, CloudWatch, IAM**, and **GCP services** including **Compute Engine, Cloud Storage (GCS), and Cloud Run**.
 - Expertise in designing and optimizing **RESTful APIs** and **Microservices Architecture**, ensuring scalable and efficient system communication.
-- Proficient in **CI/CD pipelines**, using tools like **Jenkins, GitHub Actions, and Maven** to automate testing, deployment, and continuous integration.
 - Strong background in **containerization technologies (Docker, Kubernetes, GKE)**, ensuring seamless deployment and application scaling.
 - Skilled in **infrastructure-as-code (IaC)** using **Terraform**, automating provisioning and resource management on **AWS & GCP**.
-- Experience in financial and eCommerce domains, developing applications that comply with **regulatory standards like PCI-DSS and GDPR**.
-- Adept at working in **Agile environments**, collaborating with **cross-functional teams** to deliver high-quality, business-driven solutions.
+
 
 ## Technical Skills
 
 **Languages:**  
 Java, JavaScript, Python, C, C++, SQL  
-
-**Methodologies:**  
-Agile, Scrum, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)  
 
 **Databases:**  
 MySQL, PostgreSQL, DB2, MongoDB, Google Cloud Datastore  
@@ -42,29 +37,8 @@ RESTful APIs, SOAP
 **Messaging & Streaming Systems:**  
 Kafka, Kafka Streams, MQ, RabbitMQ, Google Pub/Sub, AWS SNS, AWS SQS, Event-Driven Architecture  
 
-**Build & Deployment:**  
-Jenkins, Maven, Gradle, Docker, Kubernetes, CI/CD Pipelines  
-
 **Security & Authentication:**  
-OAuth 2.0, SAML, JWT, Spring Security, AWS IAM, API Security  
-
-**Development Tools:**  
-Eclipse, IntelliJ, Visual Studio Code, Postman  
-
-**Markup/XML Technologies:**  
-HTML, CSS, XML, JSON, YAML  
-
-**Web/App Servers:**  
-Tomcat, Apache Tomcat, AWS Lambda, NGINX, Google App Engine  
-
-**Testing Frameworks:**  
-JUnit, Mockito  
-
-**Version Control:**  
-Git, GitLab, GitHub  
-
-**Operating Systems & Environments:**  
-macOS, Linux, Windows, Google Cloud Platform  
+OAuth 2.0, SAML, JWT, Spring Security, AWS IAM, API Security    
 
 **Cloud & Infrastructure:**  
 AWS (EC2, S3, Lambda, API Gateway, CloudWatch, DynamoDB, SQS, SNS, IAM)  
@@ -83,9 +57,6 @@ GCP (GCE, GCS, Cloud Functions, Cloud Pub/Sub, Terraform)
 - Worked extensively with **PostgreSQL & DynamoDB**, optimizing query performance for handling large financial datasets.
 - Ensured compliance with financial regulations such as **PCI-DSS**, implementing data encryption and secure authentication.
 - Contributed to **CI/CD pipeline implementation** using **Jenkins, GitHub Actions, and Terraform** for faster software releases.
-- Optimized financial applications for **high availability and low latency**, implementing caching and load balancing.
-- Developed and maintained **unit tests (JUnit, Mockito)** and **integration tests** for system reliability.
-- Collaborated in **Agile environments**, working with business analysts, DevOps engineers, and security teams to deliver high-quality solutions.
 
 ---
 
@@ -96,10 +67,6 @@ GCP (GCE, GCS, Cloud Functions, Cloud Pub/Sub, Terraform)
 - Built **Kafka Stream applications** to integrate with **Google Cloud Storage**, enabling real-time data processing.
 - Developed **REST API endpoints** for **order fulfillment, returns, and cancellations** in a high-traffic eCommerce platform.
 - Automated infrastructure provisioning using **Terraform**, optimizing cloud resource management.
-- Led **technical decision-making** on **event-driven architectures**, enhancing system responsiveness and scalability.
-- Followed **test-driven development (TDD)** methodologies, implementing **JUnit and Mockito** for software reliability.
-- Optimized system performance through **database indexing, caching mechanisms, and load balancing**.
-- Actively contributed to **peer code reviews, CI/CD pipeline automation, and Agile development practices**.
 
 ---
 
