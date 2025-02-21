@@ -30,7 +30,7 @@
 
 ---
 
-### **Java Full Stack Developer @ Gap Inc**  
+### **Java Full Stack Developer @ Thoughtworks Inc**  
 📅 **August 2023 – July 2024**  
 
 - Developed **eCommerce applications** with **Java, Spring Boot, React.js, and Kafka**, ensuring scalable order processing.
