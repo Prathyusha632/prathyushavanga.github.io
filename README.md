@@ -7,42 +7,12 @@
 
 ## Professional Summary
 - Experienced **Java Full Stack Developer** specializing in building scalable and high-performance backend applications using **Java, Spring Boot, React.js, and Microservices**.
-- Expertise in **Software Development Life Cycle (SDLC)**, covering analysis, design, development, and implementation of **Java/J2EE** applications.
 - Strong background in **event-driven architectures**, using **Kafka, Kafka Streams API** for **real-time data processing** and integration.
-- Skilled in developing **secure, scalable Java-based applications** with **Spring Boot** and integrating them with **React.js** for dynamic user experiences.
-- Cloud & DevOps proficiency, with hands-on experience in **AWS, Google Cloud Platform (GCP), Terraform, and Docker** for efficient **deployment** and **infrastructure management**.
+- Cloud & DevOps proficiency, with hands-on experience in **AWS, Google Cloud Platform (GCP), Terraform, and Docker** for efficient deployment and infrastructure management.
 - Hands-on experience with **AWS services** such as **EC2, S3, Lambda, API Gateway, RDS, DynamoDB, CloudWatch, IAM**, and **GCP services** including **Compute Engine, Cloud Storage (GCS), and Cloud Run**.
 - Expertise in designing and optimizing **RESTful APIs** and **Microservices Architecture**, ensuring scalable and efficient system communication.
 - Strong background in **containerization technologies (Docker, Kubernetes, GKE)**, ensuring seamless deployment and application scaling.
 - Skilled in **infrastructure-as-code (IaC)** using **Terraform**, automating provisioning and resource management on **AWS & GCP**.
-
-
-## Technical Skills
-
-**Languages:**  
-Java, JavaScript, Python, C, C++, SQL  
-
-**Databases:**  
-MySQL, PostgreSQL, DB2, MongoDB, Google Cloud Datastore  
-
-**Backend Technologies:**  
-Java, Spring Boot, Spring Cloud, Flask, Node.js, Microservices  
-
-**Frontend Technologies:**  
-React.js, AngularJS, HTML, CSS, JavaScript  
-
-**Web Services:**  
-RESTful APIs, SOAP  
-
-**Messaging & Streaming Systems:**  
-Kafka, Kafka Streams, MQ, RabbitMQ, Google Pub/Sub, AWS SNS, AWS SQS, Event-Driven Architecture  
-
-**Security & Authentication:**  
-OAuth 2.0, SAML, JWT, Spring Security, AWS IAM, API Security    
-
-**Cloud & Infrastructure:**  
-AWS (EC2, S3, Lambda, API Gateway, CloudWatch, DynamoDB, SQS, SNS, IAM)  
-GCP (GCE, GCS, Cloud Functions, Cloud Pub/Sub, Terraform)  
 
 ---
 
@@ -101,7 +71,27 @@ GCP (GCE, GCS, Cloud Functions, Cloud Pub/Sub, Terraform)
 - Integrated **third-party APIs and payment gateways** for extended application functionality.
 
 ---
+## Technical Skills
 
+**Languages:**  
+Java, JavaScript, Python, C, C++, SQL  
+
+**Databases:**  
+MySQL, PostgreSQL, DB2, MongoDB, Google Cloud Datastore  
+
+**Backend Technologies:**  
+Java, Spring Boot, Spring Cloud, Flask, Node.js, Microservices  
+
+**Frontend Technologies:**  
+React.js, AngularJS, HTML, CSS, JavaScript  
+
+**Web Services:**  
+RESTful APIs, SOAP  
+
+**Messaging & Streaming Systems:**  
+Kafka, Kafka Streams, MQ, RabbitMQ, Google Pub/Sub, AWS SNS, AWS SQS, Event-Driven Architecture  
+
+---
 ## Education
 
 - **Master of Science in Information Technology** | *University of Cincinnati, Cincinnati, Ohio*  
