@@ -1,3 +1,5 @@
 title: Prathyusha Vanga
 logo: myimage.jpg
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
