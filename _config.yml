@@ -3,7 +3,8 @@ logo: myimage.PNG
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
-custom_css: style.scss
-sass:
-  sass_dir: _sass
-  style: compressed
+markdown: kramdown
+highlighter: rouge
+
+head:
+  - <link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
