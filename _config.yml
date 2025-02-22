@@ -3,4 +3,7 @@ logo: myimage.PNG
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
-custom_css: style.css
+custom_css: style.scss
+sass:
+  sass_dir: _sass
+  style: compressed
