@@ -3,8 +3,5 @@ logo: myimage.PNG
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
-markdown: kramdown
-highlighter: rouge
-
-head:
-  - <link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
+css:
+  - "/custom.css" 
