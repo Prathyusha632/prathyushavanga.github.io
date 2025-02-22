@@ -79,7 +79,7 @@
 Java, JavaScript, Python, C, C++, SQL  
 
 **Databases:**  
-MySQL, PostgreSQL, DB2, MongoDB, Google Cloud Datastore  
+MySQL, PostgreSQL, MongoDB, Google Cloud Datastore  
 
 **Backend Technologies:**  
 Java, Spring Boot, Spring Cloud, Flask, Node.js, Microservices  
