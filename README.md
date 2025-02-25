@@ -35,7 +35,7 @@
 ### **Java Full Stack Developer @ Thoughtworks Inc**  
 📅 **August 2023 – July 2024**  
 
-- Developed **eCommerce applications** with **Java, Spring Boot, React.js, and Kafka**, ensuring scalable order processing.
+- Developed **eCommerce applications** with **Java, Spring Boot, Angular, and Kafka**, ensuring scalable order processing.
 - Built **Kafka Stream applications** to integrate with **Google Cloud Storage**, enabling real-time data processing.
 - Developed **REST API endpoints** for **order fulfillment, returns, and cancellations** in a high-traffic eCommerce platform.
 - Automated infrastructure provisioning using **Terraform**, optimizing cloud resource management.
@@ -56,7 +56,7 @@
 ### **Java Developer @ Techwave Inc**  
 📅 **September 2019 – October 2021**  
 
-- Developed and maintained **full-stack web applications** using **Java, Spring Boot, React, and Angular**.
+- Developed and maintained **full-stack web applications** using **Java, Spring Boot, and Angular**.
 - Designed and implemented **RESTful APIs** for secure backend-to-frontend communication.
 - Built and deployed **microservices on AWS (EC2, S3, Lambda, RDS)** for cloud-native applications.
 - Automated **cloud infrastructure provisioning using Terraform**, streamlining DevOps workflows.
@@ -67,7 +67,7 @@
 ### **Java Developer Intern @ Techwave**  
 📅 **February 2019 – August 2019**  
 
-- Developed backend services using **Python (Flask/Django)** and frontend applications with **React/Angular**.
+- Developed backend services using **Python (Flask/Django)** and frontend applications with **Angular**.
 - Built **RESTful APIs** and deployed applications on **Google Cloud Platform (GCP)**.
 - Implemented **WebSockets** for real-time communication and enhanced interactive features.
 - Integrated **third-party APIs and payment gateways** for extended application functionality.
