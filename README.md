@@ -53,7 +53,7 @@
 
 ---
 
-### **Java Developer @ Techwave Inc**  
+### **Java Developer @ Tech Mahindra**  
 📅 **September 2019 – October 2021**  
 
 - Developed and maintained **full-stack web applications** using **Java, Spring Boot, and Angular**.
@@ -64,7 +64,7 @@
 
 ---
 
-### **Java Developer Intern @ Techwave**  
+### **Java Developer Intern @ Tech Mahindra**  
 📅 **February 2019 – August 2019**  
 
 - Developed backend services using **Python (Flask/Django)** and frontend applications with **Angular**.
