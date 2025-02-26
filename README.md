@@ -8,7 +8,7 @@
 [Download Resume](PrathyushaResume.pdf)
 
 ## Professional Summary
-- Experienced **Java Full Stack Developer** specializing in building scalable and high-performance backend applications using **Java, Spring Boot, React.js, and Microservices**.
+- Experienced **Java Full Stack Developer** specializing in building scalable and high-performance backend applications using **Java, Spring Boot, Vue.js, and Microservices**.
 - Strong background in **event-driven architectures**, using **Kafka, Kafka Streams API** for **real-time data processing** and integration.
 - Cloud & DevOps proficiency, with hands-on experience in **AWS, Google Cloud Platform (GCP), Terraform, and Docker** for efficient deployment and infrastructure management.
 - Hands-on experience with **AWS services** such as **EC2, S3, Lambda, API Gateway, RDS, DynamoDB, CloudWatch, IAM**, and **GCP services** including **Compute Engine, Cloud Storage (GCS), and Cloud Run**.
@@ -23,7 +23,7 @@
 ### **Java Full Stack Developer @ Fifth Third Bank**  
 📅 **August 2024 – Present**  
 
-- Developed and maintained full-stack **financial applications** using **Java, Spring Boot, and React.js**, ensuring real-time transaction processing.
+- Developed and maintained full-stack **financial applications** using **Java, Spring Boot, and Vue.js**, ensuring real-time transaction processing.
 - Built **microservices** and deployed them on **AWS (EC2, S3, Lambda, RDS)** to optimize scalability and performance.
 - Designed and implemented **RESTful APIs** to facilitate seamless and secure financial transactions.
 - Worked extensively with **PostgreSQL & DynamoDB**, optimizing query performance for handling large financial datasets.
