@@ -3,7 +3,7 @@
 ## Contact Information
 **Prathyusha Vanga**  
 📞 513-549-6203 | 📧 prathyusha.vanga28@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prathyushavanga/) | [Github](https://github.com/Prathyusha632) | [Medium](https://medium.com/@prathyusha.vanga28)
+🔗 [LinkedIn](https://www.linkedin.com/in/prathyusha-vanga-149436352/) | [Github](https://github.com/Prathyusha632) | [Medium](https://medium.com/@prathyusha.vanga28)
 ### 📄 Download My Resume
 [Download Resume](PrathyushaResume.pdf)
 
